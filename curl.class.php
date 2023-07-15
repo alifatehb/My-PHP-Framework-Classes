@@ -29,7 +29,6 @@
 * THE SOFTWARE.
 * 
 */
-
 class cURL
 {
 	//The handle for the cURL session
